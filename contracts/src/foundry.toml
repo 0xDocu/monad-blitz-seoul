@@ -1,0 +1,5 @@
+[profile.default]
+solc = "0.8.20"
+optimizer = true
+optimizer_runs = 800
+via_ir = true
